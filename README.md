@@ -159,5 +159,6 @@ int main(int argc, char *argv[]) {
 ![2](2.png)
 
 
-# RESULT:
+# RESULT: 
+
 The programs are executed successfully.
